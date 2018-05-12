@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42697
     wikipedia: https://en.wikipedia.org/wiki/Wynfrid_Duckworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44331#Prehistoric-Man
 gutenberg_issued: '2013-12-01'
 gutenberg_type: Text
 identifiers:
