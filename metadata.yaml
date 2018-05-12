@@ -1,0 +1,29 @@
+_repo: Prehistoric-Man_44331
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44331-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Duckworth, W. L. H. (Wynfrid Laurence Henry)
+    alias: Duckworth, Wynfrid Laurence Henry
+    birthdate: 1870
+    deathdate: 1956
+    gutenberg_agent_id: '42697'
+    url: http://www.gutenberg.org/2009/agents/42697
+    wikipedia: https://en.wikipedia.org/wiki/Wynfrid_Duckworth
+description: ''
+gutenberg_issued: '2013-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44331'
+  lccn: '12024773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prehistoric peoples'
+- !lcc 'GN'
+title: Prehistoric Man
+url: http://www.gutenberg.org/ebooks/44331
